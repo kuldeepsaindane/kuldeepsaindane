@@ -1,6 +1,18 @@
+
 # 💫 About Me:
 I'm a Computer Science graduate student at Pace University with a strong background in software engineering and data analysis. My experience spans across various domains, including machine learning, cloud computing, and robotic process automation. I have a passion for solving complex problems and optimizing systems through innovative solutions. I enjoy collaborating on projects that push the boundaries of technology and contribute to meaningful advancements.
+<h3 align="center">
+<img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center"> Software Engineer & Tech Enthusiast <img src="https://media.giphy.com/media/QVxVj0t3w2IFslFKxs/giphy.gif" width="35" height="35" align="center">
+</h3>
 
+
+<!-- Center deck -->
+<h4 align="center">
+    <a href=""><img src="https://img.shields.io/badge/Portfolio-orange?logo=ameba&logoColor=white" alt="Portfolio"> 
+    <a href="https://www.linkedin.com/in/kuldeepsaindane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin">
+    <a href="mailto:kuldeepsaindane6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="GMAIL"> 
+     
+ </a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kuldeep.s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kuldeepsaindane) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KuldeepSaindane) 
