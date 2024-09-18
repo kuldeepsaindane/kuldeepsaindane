@@ -54,7 +54,7 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 ![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=jupyter)&nbsp;
-![GoogleColab](https://img.shields.io/badge/-Google Colab-05122A?style=flat&logo=googlecolab)&nbsp;
+![GoogleColab](https://img.shields.io/badge/-GoogleColab-05122A?style=flat&logo=googlecolab)&nbsp;
 ![API](https://img.shields.io/badge/-API-05122A?style=flat&logo=api)&nbsp;
 ![AgileDevelopment](https://img.shields.io/badge/-AgileDevelopment-05122A?style=flat&logo=agiledevelopment)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices)
