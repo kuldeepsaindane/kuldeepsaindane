@@ -75,7 +75,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="center">
-  ![Profile View](https://visitcount.itsvg.in/api?id=kuldeepsaindane&icon=0&color=0)
-</h3>
+
+![Profile View](https://api.visitorbadge.io/api/VisitorHit?user=kuldeepsaindane&repo=github-visitors-badge&countColor=%237B1E7A)
+[![Profile View](https://visitcount.itsvg.in/api?id=kuldeepsaindane&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
