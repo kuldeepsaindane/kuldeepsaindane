@@ -10,10 +10,9 @@
     <a href=""><img src="https://img.shields.io/badge/Portfolio-orange?logo=ameba&logoColor=white" alt="Portfolio"> 
     <a href="https://www.linkedin.com/in/kuldeepsaindane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin">
     <a href="mailto:kuldeepsaindane6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="GMAIL"> 
-    <a href="https://discord.gg/kuldeep.s"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"> 
+    <a href="[https://discordapp.com/users/kuldeep.s"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"> 
     <a href="https://github.com/kuldeepsaindane"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=github&logoColor=white" alt="GitHub">
     <a href="https://x.com/KuldeepSaindane"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"> 
-     
  </a>
 
 <!-- lINE -->   
