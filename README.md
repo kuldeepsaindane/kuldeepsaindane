@@ -74,6 +74,8 @@
 <!-- lINE -->   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Profile View](https://visitcount.itsvg.in/api?id=kuldeepsaindane&icon=0&color=0)
 
+<h3= align="center">
+  ![Profile View](https://visitcount.itsvg.in/api?id=kuldeepsaindane&icon=0&color=0)
+</h3>
 
