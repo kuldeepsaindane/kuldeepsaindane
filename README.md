@@ -76,7 +76,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![Profile View](https://api.visitorbadge.io/api/VisitorHit?user=kuldeepsaindane&repo=github-visitors-badge&countColor=%237B1E7A)
 [![Profile View](https://visitcount.itsvg.in/api?id=kuldeepsaindane&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
