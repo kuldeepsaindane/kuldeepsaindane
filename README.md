@@ -82,6 +82,6 @@
 <hr> </hr>
 
 
-[![Profile View](https://visitcount.itsvg.in/api?id=kuldeepsaindane&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile View](https://visitcount.itsvg.in/api?id=kuldeepsaindane&icon=0&color=0)]
 
 
